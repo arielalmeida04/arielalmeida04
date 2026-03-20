@@ -1,4 +1,4 @@
-ariel-almeida04
+
 👋 Hola, soy Ariel
 
 🎓 Estudiante de Tecnicatura Universitaria en Programación
