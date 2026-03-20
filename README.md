@@ -10,15 +10,6 @@
 
 ---
 
-## 📊 Estadísticas  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arielalmeida04&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielalmeida04&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Sobre mí  
 
 Soy desarrollador backend en formación, enfocado en construir aplicaciones robustas, escalables y bien estructuradas.  
