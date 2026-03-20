@@ -1,8 +1,21 @@
 # 👋 Hola, soy Martín Ariel  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Developer;Apasionado+por+el+Backend;Construyendo+APIs+REST" />
+</p>
+
 🎓 Estudiante de Tecnicatura Universitaria en Programación  
 💻 Java Backend Developer en formación  
 📍 Paraná, Entre Ríos, Argentina  
+
+---
+
+## 📊 Estadísticas  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arielalmeida04&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielalmeida04&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -19,30 +32,35 @@ También cuento con experiencia previa en **C# y .NET**, donde desarrollé aplic
 ## 🛠️ Stack Tecnológico  
 
 ### 🚀 Backend  
-- Java  
-- Spring Boot  
-- JPA  
-- REST API  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![JPA](https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge)  
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)  
 
 ### 🗄️ Base de Datos  
-- MySQL  
-- SQL Server  
-- PostgreSQL  
-- MongoDB  
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ### ⚙️ Otros  
-- C#  
-- .NET  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 
 ### 🌐 Frontend (básico)  
-- HTML5  
-- CSS3  
-- JavaScript  
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### 🧰 Herramientas  
-- Git  
-- GitHub  
-- Postman  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
 ---
 
@@ -103,3 +121,5 @@ Desarrollarme como **Backend Developer Java**, participando en proyectos reales,
 
 📧 Email: arielalmeida04@hotmail.com  
 📱 Celular: +54 9 343 455-1868  
+
+---
