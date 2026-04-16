@@ -5,7 +5,9 @@
 </p>
 
 🎓 Estudiante de Tecnicatura Universitaria en Programación  
+
 💻 Java Backend Developer 
+
 📍 Paraná, Entre Ríos, Argentina  
 
 ---
