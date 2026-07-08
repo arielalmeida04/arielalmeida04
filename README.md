@@ -68,13 +68,15 @@ API REST para gestión de una biblioteca, mi proyecto más completo en progreso.
 - ✔️ Contenerización con Docker
 - ✔️ Testing con JUnit y Mockito 
 
-🔗 [github.com/arielalmeida04/ApiLibros](https://github.com/arielalmeida04/ApiLibros)
-    
-    FRONTEND
-    - ✔️ Muestra las categorias creadas
-   
-    ... Siguiente funcionalidades del Backend seran integradas en futuras features 
-🔗 [github.com/arielalmeida04/ApiLibros](https://github.com/arielalmeida04/ApiLibros](https://github.com/arielalmeida04/FrontApiBooks)
+### FRONTEND
+
+- ✔️ Muestra las categorías creadas.
+- 🚧 Las siguientes funcionalidades del Backend serán integradas en futuras features.
+
+### 🔗 Repositorios
+
+- **Backend:** https://github.com/arielalmeida04/ApiLibros
+- **Frontend:** https://github.com/arielalmeida04/FrontApiBooks
 ---
 
 ### 🗓️ Sistema de Reservas — Full Stack
