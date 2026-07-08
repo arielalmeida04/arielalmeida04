@@ -63,10 +63,10 @@ API REST para gestión de una biblioteca, mi proyecto más completo en progreso.
 
 **Funcionalidades:**
 - ✔️ Autenticación y autorización con Spring Security + JWT
-- ✔️ CRUD completo con JPA/Hibernate y PostgreSQL
-- ✔️ Arquitectura en capas (Controller → Service → Repository)
+- ✔️ CRUD completo con JPA/Hibernate y MySQL
+- ✔️ Arquitectura en capas 
 - ✔️ Contenerización con Docker
-- ✔️ Testing con JUnit y Mockito (en progreso)
+- ✔️ Testing con JUnit y Mockito 
 
 🔗 [github.com/arielalmeida04/ApiLibros](https://github.com/arielalmeida04/ApiLibros)
     
