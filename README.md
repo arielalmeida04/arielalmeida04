@@ -61,7 +61,7 @@ API REST para gestión de una biblioteca, mi proyecto más completo en progreso.
 
 **Tecnologías:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · PostgreSQL · Docker · JUnit · Mockito
 
-**Funcionalidades:**
+### BACKEND
 - ✔️ Autenticación y autorización con Spring Security + JWT
 - ✔️ CRUD completo con JPA/Hibernate y MySQL
 - ✔️ Arquitectura en capas 
