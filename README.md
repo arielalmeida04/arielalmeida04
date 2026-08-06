@@ -169,42 +169,6 @@ Aplicación monolítica desarrollada con Spring Boot.
 
 ---
 
-# 🏗 Buenas prácticas que aplico
-
-✔ Arquitectura en Capas
-
-✔ Programación Orientada a Objetos
-
-✔ Principios SOLID
-
-✔ Inyección de Dependencias
-
-✔ Repository Pattern
-
-✔ DTOs
-
-✔ Validación de datos
-
-✔ Manejo global de excepciones
-
-✔ Diseño de APIs REST
-
-✔ Testing unitario
-
-✔ Código limpio
-
----
-
-# 📚 Actualmente aprendiendo
-
-* Docker
-* Testing avanzado
-* Arquitectura de Software
-* Buenas prácticas con Spring Security
-* Integración continua (CI/CD)
-
----
-
 # 🎯 Objetivo Profesional
 
 Continuar creciendo como Java Backend Developer, participando en el desarrollo de aplicaciones escalables y aplicando buenas prácticas de ingeniería de software, arquitectura y testing.
@@ -213,15 +177,6 @@ Busco incorporarme a un equipo donde pueda seguir aprendiendo, aportar valor y d
 
 ---
 
-# 📊 Estadísticas de GitHub
-
-```md
-<!-- GitHub Stats -->
-
-<!-- Top Languages -->
-```
-
----
 
 # 📬 Contacto
 
