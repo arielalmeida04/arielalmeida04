@@ -1,131 +1,230 @@
-# 👋 Hola, soy Martín Ariel
+# 👋 Hola, soy Martín Ariel Almeida
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;Construyendo+APIs+REST;Estudiante+UTN+Paraná" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;Construyendo+APIs+REST+escalables;Estudiante+de+UTN+Paraná" />
 </p>
 
-🎓 Estudiante de Tecnicatura Universitaria en Programación – UTN Paraná  
-💻 Java Backend Developer  
-📍 Paraná, Entre Ríos, Argentina  
+<p align="center">
+Java Backend Developer • Spring Boot • REST APIs • Spring Security • Angular
+</p>
+
+🎓 Estudiante de Tecnicatura Universitaria en Programación — UTN Paraná
+
+💻 Java Backend Developer
+
+📍 Paraná, Entre Ríos, Argentina
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
-Soy desarrollador backend en formación, enfocado en construir APIs REST robustas, escalables y bien estructuradas.  
-Me especializo en **Java + Spring Boot**, aplicando arquitectura en capas, principios SOLID, Spring Security con JWT y persistencia con JPA/Hibernate.  
-Tengo experiencia previa en **C# y .NET**, donde desarrollé aplicaciones de escritorio con WinForms y Entity Framework.  
-También trabajé con **Node.js y Angular/React** en proyectos full stack.
+Soy desarrollador backend especializado en el ecosistema Java, enfocado en el desarrollo de APIs REST seguras, escalables y mantenibles utilizando Spring Boot.
+
+Disfruto diseñar aplicaciones siguiendo una arquitectura en capas, aplicando principios SOLID, buenas prácticas de programación y pruebas unitarias para construir software de calidad.
+
+Actualmente continúo profundizando mis conocimientos en Docker, testing, arquitectura de aplicaciones y tecnologías del ecosistema Spring.
 
 ---
 
-## 🛠️ Stack Tecnológico
+# 🛠 Stack Tecnológico
 
-### 🚀 Stack Principal — Experiencia aplicada en proyectos
+## ☕ Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+## 🗄 Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## 🧪 Testing y Calidad
+
+![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-TDD-green?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Springdoc](https://img.shields.io/badge/Springdoc-OpenAPI-brightgreen?style=for-the-badge)
-![Lombok](https://img.shields.io/badge/Lombok-red?style=for-the-badge)
-
-
-### 🗂️ Stack Complementario — Tecnologías adicionales utilizadas
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JaCoCo](https://img.shields.io/badge/JaCoCo-Code_Coverage-orange?style=for-the-badge)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 📖 Documentación
 
-### 📚 ApiLibros — API REST con Spring Security + JWT
-API REST para gestión de una biblioteca, mi proyecto más completo en progreso.
-
-**Tecnologías:** Java · Spring Boot · Spring Security · JWT · JPA/Hibernate · PostgreSQL · Docker · JUnit · Mockito
-
-### BACKEND
-- ✔️ Autenticación y autorización con Spring Security + JWT
-- ✔️ CRUD completo con JPA/Hibernate y MySQL
-- ✔️ Arquitectura en capas 
-- ✔️ Contenerización con Docker
-- ✔️ Testing con JUnit y Mockito 
-
-### FRONTEND
-
-- ✔️ Muestra las categorías creadas.
-- 🚧 Las siguientes funcionalidades del Backend serán integradas en futuras features.
-
-### 🔗 Repositorios
-
-- **Backend:** https://github.com/arielalmeida04/ApiLibros
-  
-- **Frontend:** https://github.com/arielalmeida04/FrontApiBooks
----
-
-### 🗓️ Sistema de Reservas — Full Stack
-Aplicación completa de gestión de reservas con backend y frontend separados.
-
-**Tecnologías:** Java · Spring Boot · Angular · JPA/Hibernate · REST APIs
-
-**Funcionalidades:**
-- ✔️ API REST con Spring Boot para gestión de reservas y usuarios
-- ✔️ Frontend en Angular con consumo de API via HTTP Client
-- ✔️ Modelado de relaciones y validaciones en capa de servicio
-
-🔗 [Backend](https://github.com/arielalmeida04/reservation-backend) · [Frontend](https://github.com/arielalmeida04/reservation-frontend)
+![SpringDoc](https://img.shields.io/badge/SpringDoc-OpenAPI-brightgreen?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
 ---
 
-### 📋 sysDocentesApiRest — API REST con Node.js
-API para administración de datos docentes, desarrollada en Node.js.
+## 🐳 DevOps
 
-**Tecnologías:** Node.js · JavaScript · Express · REST API
-
-**Funcionalidades:**
-- ✔️ Endpoints RESTful para operaciones CRUD
-- ✔️ Gestión de entidades del sistema educativo
-
-🔗 [github.com/arielalmeida04/sysDocentesApiRest](https://github.com/arielalmeida04/sysDocentesApiRest)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
 ---
 
-## 🏗️ Prácticas y principios que aplico
+## 🎨 Frontend
 
-- Arquitectura en capas (Controller → Service → Repository)
-- Principios SOLID y código limpio
-- Repository Pattern
-- Programación Orientada a Objetos (POO)
-- Diseño de APIs REST con estándares del mercado
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ---
 
-## 🎯 Objetivo
+## ⚙ Herramientas
 
-Desarrollarme como **Java Backend Developer**, participando en proyectos reales, aprendiendo de equipos profesionales y construyendo software de calidad.  
-Busco mi primera oportunidad como **Trainee / Junior Backend Developer**.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 📬 Contacto
+## 💻 Otras Tecnologías
 
-📧 arielalmeida04@hotmail.com  
-📱 +54 9 343 455-1868  
-🔗 [LinkedIn](https://linkedin.com/in/arielalmeida04)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
+![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge)
+
+---
+
+# 🚀 Proyectos Destacados
+
+## 📚 ApiLibros + FrontApiBooks
+
+API REST Full Stack para la gestión de bibliotecas.
+
+### Backend
+
+* Autenticación Stateless mediante JWT.
+* Autorización basada en Roles (EMPLEADO y JEFE).
+* Arquitectura en Capas.
+* Spring Security.
+* Spring Data JPA.
+* Relaciones entre entidades.
+* Validaciones.
+* Documentación con SpringDoc OpenAPI.
+* Testing con JUnit 5 y Mockito.
+* Cobertura de código mediante JaCoCo.
+* Contenerización utilizando Docker.
+
+### Frontend
+
+* Angular.
+* Consumo de API mediante HttpClient.
+* Bootstrap.
+* Integración completa con el backend.
+
+**Repositorio Backend**
+
+https://github.com/arielalmeida04/ApiLibros
+
+**Repositorio Frontend**
+
+https://github.com/arielalmeida04/FrontApiBooks
+
+---
+
+## 🏨 Reservation
+
+Sistema Full Stack para administración de reservas.
+
+* Backend desarrollado con Spring Boot.
+* Frontend desarrollado con Angular.
+* Persistencia utilizando PostgreSQL.
+* Bean Validation.
+* Spring Data JPA.
+* Arquitectura en capas.
+* Documentación OpenAPI.
+
+---
+
+## 👨‍🏫 sysDocentesApiRest
+
+API REST para la gestión de docentes.
+
+* Java.
+* Spring Boot.
+* Spring Data JPA.
+* Arquitectura en capas.
+* CRUD completo.
+* Persistencia relacional.
+
+---
+
+## 👥 Gestión de Empleados
+
+Aplicación monolítica desarrollada con Spring Boot.
+
+* Spring MVC.
+* Thymeleaf.
+* MongoDB.
+* Arquitectura MVC.
+* Renderizado del lado del servidor.
+
+---
+
+# 🏗 Buenas prácticas que aplico
+
+✔ Arquitectura en Capas
+
+✔ Programación Orientada a Objetos
+
+✔ Principios SOLID
+
+✔ Inyección de Dependencias
+
+✔ Repository Pattern
+
+✔ DTOs
+
+✔ Validación de datos
+
+✔ Manejo global de excepciones
+
+✔ Diseño de APIs REST
+
+✔ Testing unitario
+
+✔ Código limpio
+
+---
+
+# 📚 Actualmente aprendiendo
+
+* Docker
+* Testing avanzado
+* Arquitectura de Software
+* Buenas prácticas con Spring Security
+* Integración continua (CI/CD)
+
+---
+
+# 🎯 Objetivo Profesional
+
+Continuar creciendo como Java Backend Developer, participando en el desarrollo de aplicaciones escalables y aplicando buenas prácticas de ingeniería de software, arquitectura y testing.
+
+Busco incorporarme a un equipo donde pueda seguir aprendiendo, aportar valor y desarrollarme profesionalmente como Backend Developer.
+
+---
+
+# 📊 Estadísticas de GitHub
+
+```md
+<!-- GitHub Stats -->
+
+<!-- Top Languages -->
+```
+
+---
+
+# 📬 Contacto
+
+📧 [arielalmeida04@hotmail.com](mailto:arielalmeida04@hotmail.com)
+
+💼 https://linkedin.com/in/arielalmeida04
