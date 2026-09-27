@@ -167,16 +167,6 @@ Aplicación monolítica desarrollada con Spring Boot.
 * Arquitectura MVC.
 * Renderizado del lado del servidor.
 
----
-
-# 🎯 Objetivo Profesional
-
-Continuar creciendo como Java Backend Developer, participando en el desarrollo de aplicaciones escalables y aplicando buenas prácticas de ingeniería de software, arquitectura y testing.
-
-Busco incorporarme a un equipo donde pueda seguir aprendiendo, aportar valor y desarrollarme profesionalmente como Backend Developer.
-
----
-
 
 # 📬 Contacto
 
