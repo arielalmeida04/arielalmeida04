@@ -1,175 +1,148 @@
 # 👋 Hola, soy Martín Ariel Almeida
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;Construyendo+APIs+REST+escalables;Estudiante+de+UTN+Paraná" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;Construyendo+APIs+REST;Estudiante+de+UTN+Paraná" />
 </p>
 
 <p align="center">
-Java Backend Developer • Spring Boot • REST APIs • Spring Security • Angular
+  <a href="https://portfile-ariel-almeida.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/arielalmeida04">GitHub</a> ·
+  <a href="https://linkedin.com/in/arielalmeida04">LinkedIn</a> ·
+  <a href="mailto:arielalmeida04@hotmail.com">Contacto</a>
 </p>
 
-🎓 Estudiante de Tecnicatura Universitaria en Programación — UTN Paraná
-
-💻 Java Backend Developer
+**Técnico Universitario en Programación en formación · UTN Facultad Regional Paraná**
 
 📍 Paraná, Entre Ríos, Argentina
 
----
 
-# 🚀 Sobre mí
+Sobre mí
 
-Soy desarrollador backend especializado en el ecosistema Java, enfocado en el desarrollo de APIs REST seguras, escalables y mantenibles utilizando Spring Boot.
+Soy desarrollador enfocado en el backend con Java y Spring Boot. Me interesa construir APIs REST seguras, mantenibles y bien estructuradas, aplicando buenas prácticas de programación, arquitectura en capas y principios SOLID.
 
-Disfruto diseñar aplicaciones siguiendo una arquitectura en capas, aplicando principios SOLID, buenas prácticas de programación y pruebas unitarias para construir software de calidad.
+Actualmente continúo fortaleciendo mis conocimientos en seguridad, testing, bases de datos y desarrollo de aplicaciones full stack.
 
-Actualmente continúo profundizando mis conocimientos en Docker, testing, arquitectura de aplicaciones y tecnologías del ecosistema Spring.
+Stack tecnológico
 
----
+Principal
 
-# 🛠 Stack Tecnológico
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+</p>
 
-## ☕ Backend
+Secundario
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+</p>
 
----
+Complementario
 
-## 🗄 Bases de Datos
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-89E051?style=flat-square&logo=zsh&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/JaCoCo-Code_Coverage-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+Proyectos destacados
 
----
+📚 ApiLibros + FrontApiBooks
 
-## 🧪 Testing y Calidad
+Aplicación full stack para la gestión de bibliotecas, con autenticación, autorización por roles e integración entre backend y frontend.
 
-![JUnit 5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-TDD-green?style=for-the-badge)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-Code_Coverage-orange?style=for-the-badge)
+Backend: Java, Spring Boot, Spring Security, JWT, Spring Data JPA y MySQL.
 
----
+Frontend: Angular y Bootstrap.
 
-## 📖 Documentación
+Calidad: JUnit 5, Mockito y JaCoCo.
 
-![SpringDoc](https://img.shields.io/badge/SpringDoc-OpenAPI-brightgreen?style=for-the-badge)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+Documentación y despliegue: OpenAPI y Docker.
 
----
+Repositorio Backend · Repositorio Frontend
 
-## 🐳 DevOps
+🏨 Reservation
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+Sistema full stack para la administración de reservas.
 
----
+Java y Spring Boot.
 
-## 🎨 Frontend
+Angular.
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+PostgreSQL y Spring Data JPA.
 
----
+Bean Validation y documentación OpenAPI.
 
-## ⚙ Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-## 💻 Otras Tecnologías
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge)
-![WinForms](https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge)
-
----
-
-# 🚀 Proyectos Destacados
-
-## 📚 ApiLibros + FrontApiBooks
-
-API REST Full Stack para la gestión de bibliotecas.
-
-### Backend
-
-* Autenticación Stateless mediante JWT.
-* Autorización basada en Roles (EMPLEADO y JEFE).
-* Arquitectura en Capas.
-* Spring Security.
-* Spring Data JPA.
-* Relaciones entre entidades.
-* Validaciones.
-* Documentación con SpringDoc OpenAPI.
-* Testing con JUnit 5 y Mockito.
-* Cobertura de código mediante JaCoCo.
-* Contenerización utilizando Docker.
-
-### Frontend
-
-* Angular.
-* Consumo de API mediante HttpClient.
-* Bootstrap.
-* Integración completa con el backend.
-
-**Repositorio Backend**
-
-https://github.com/arielalmeida04/ApiLibros
-
-**Repositorio Frontend**
-
-https://github.com/arielalmeida04/FrontApiBooks
-
----
-
-## 🏨 Reservation
-
-Sistema Full Stack para administración de reservas.
-
-* Backend desarrollado con Spring Boot.
-* Frontend desarrollado con Angular.
-* Persistencia utilizando PostgreSQL.
-* Bean Validation.
-* Spring Data JPA.
-* Arquitectura en capas.
-* Documentación OpenAPI.
-
----
-
-## 👨‍🏫 sysDocentesApiRest
+👨‍🏫 sysDocentesApiRest
 
 API REST para la gestión de docentes.
 
-* Java.
-* Spring Boot.
-* Spring Data JPA.
-* Arquitectura en capas.
-* CRUD completo.
-* Persistencia relacional.
+Java y Spring Boot.
 
----
+Spring Data JPA.
 
-## 👥 Gestión de Empleados
+Arquitectura en capas.
 
-Aplicación monolítica desarrollada con Spring Boot.
+Operaciones CRUD y persistencia relacional.
 
-* Spring MVC.
-* Thymeleaf.
-* MongoDB.
-* Arquitectura MVC.
-* Renderizado del lado del servidor.
+👥 Gestión de Empleados
 
+Aplicación monolítica para la gestión de empleados.
 
-# 📬 Contacto
+Spring Boot y Spring MVC.
 
-📧 [arielalmeida04@hotmail.com](mailto:arielalmeida04@hotmail.com)
+Thymeleaf.
 
-💼 https://linkedin.com/in/arielalmeida04
+MongoDB.
+
+Arquitectura MVC y renderizado del lado del servidor.
+
+Idiomas
+
+🇦🇷 Español: nativo.
+
+🇬🇧 Inglés: A2.
+
+🇧🇷 Portugués: B1.
+
+Contacto
+
+📧 arielalmeida04@hotmail.com
+
+💼 LinkedIn
+
+💻 GitHub
