@@ -1,7 +1,7 @@
 # 👋 Hola, soy Martín Ariel Almeida
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;Construyendo+APIs+REST;Estudiante+de+UTN+Paraná" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+Spring+Security+%7C+JWT;Construyendo+APIs+REST;Técnico+Universitario+en+Programación" />
 </p>
 
 <p align="center">
