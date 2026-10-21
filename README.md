@@ -20,7 +20,6 @@ Sobre mí
 
 Soy desarrollador enfocado en el backend con Java y Spring Boot. Me interesa construir APIs REST seguras, mantenibles y bien estructuradas, aplicando buenas prácticas de programación, arquitectura en capas y principios SOLID.
 
-Actualmente continúo fortaleciendo mis conocimientos en seguridad, testing, bases de datos y desarrollo de aplicaciones full stack.
 
 Stack tecnológico
 
