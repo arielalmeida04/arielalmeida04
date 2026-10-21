@@ -91,7 +91,5 @@ Idiomas
 Contacto
 
 📧 arielalmeida04@hotmail.com
+📱 3434551868
 
-💼 LinkedIn
-
-💻 GitHub
