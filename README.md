@@ -79,57 +79,6 @@ Complementario
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 </p>
 
-Proyectos destacados
-
-📚 ApiLibros + FrontApiBooks
-
-Aplicación full stack para la gestión de bibliotecas, con autenticación, autorización por roles e integración entre backend y frontend.
-
-Backend: Java, Spring Boot, Spring Security, JWT, Spring Data JPA y MySQL.
-
-Frontend: Angular y Bootstrap.
-
-Calidad: JUnit 5, Mockito y JaCoCo.
-
-Documentación y despliegue: OpenAPI y Docker.
-
-Repositorio Backend · Repositorio Frontend
-
-🏨 Reservation
-
-Sistema full stack para la administración de reservas.
-
-Java y Spring Boot.
-
-Angular.
-
-PostgreSQL y Spring Data JPA.
-
-Bean Validation y documentación OpenAPI.
-
-👨‍🏫 sysDocentesApiRest
-
-API REST para la gestión de docentes.
-
-Java y Spring Boot.
-
-Spring Data JPA.
-
-Arquitectura en capas.
-
-Operaciones CRUD y persistencia relacional.
-
-👥 Gestión de Empleados
-
-Aplicación monolítica para la gestión de empleados.
-
-Spring Boot y Spring MVC.
-
-Thymeleaf.
-
-MongoDB.
-
-Arquitectura MVC y renderizado del lado del servidor.
 
 Idiomas
 
