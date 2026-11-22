@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfile-ariel-almeida.vercel.app/">Portfolio</a> ·
+  <a href="[https://portfile-ariel-almeida.vercel.app](https://portfile-arielalmeida.vercel.app/)/">Portfolio</a> ·
   <a href="https://linkedin.com/in/arielalmeida04">LinkedIn</a> ·
   <a href="mailto:arielalmeida04@hotmail.com">Email</a>
 </p>
