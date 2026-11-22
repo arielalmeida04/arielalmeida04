@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfile-arielalmeida.vercel.app/">Portfolio</a> ·
-  <a href="https://linkedin.com/in/arielalmeida04">LinkedIn</a> ·
+  <a href="https://portfile-arielalmeida.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/martin-almeida-946b18221">LinkedIn</a> ·
   <a href="mailto:arielalmeida04@hotmail.com">Email</a>
 </p>
 
 > [!TIP]
-> **Disponible para oportunidades laborales** como **Java Backend Developer** (remoto, híbrido o presencial). Si buscás sumar a alguien con base sólida, buenas prácticas y ganas de aportar en equipo, escribime por [LinkedIn](https://linkedin.com/in/arielalmeida04) o por [email](mailto:arielalmeida04@hotmail.com).
+> **Disponible para oportunidades laborales** como **Java Backend Developer** (remoto, híbrido o presencial). Si buscás sumar a alguien con base sólida, buenas prácticas y ganas de aportar en equipo, escribime por [LinkedIn](https://www.linkedin.com/in/martin-almeida-946b18221) o por [email](mailto:arielalmeida04@hotmail.com).
 
 ## Sobre mí
 
@@ -26,14 +26,18 @@ Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN Facultad 
 
 📍 Paraná, Entre Ríos, Argentina (UTC-3)
 
-## Foco actual
+## Proyectos destacados
 
-Actualmente estoy desarrollando proyectos prácticos de backend para consolidar un portafolio listo para producción, poniendo énfasis en:
+### [ApiLibros](https://github.com/arielalmeida04/ApiLibros) — Backend (API REST)
+API REST desarrollada con **Java y Spring Boot** para la gestión de libros, diseñada con foco en seguridad y arquitectura en capas.
+* Implementación de autenticación y autorización stateless con **Spring Security y JWT**.
+* Exposición de endpoints REST estructurados para ser consumidos por clientes externos.
 
-* Autenticación y autorización stateless con **Spring Security y JWT**.
-* Persistencia relacional y no relacional (**PostgreSQL, MySQL, MongoDB**) con **Hibernate / JPA**.
-* Pruebas unitarias y de integración con **JUnit 5, Mockito y JaCoCo**, junto con documentación en **Swagger / OpenAPI**.
-* Contenerización de entornos locales con **Docker** e integración con interfaces modernas en **React / TypeScript** y **Angular**.
+### [FrontApiBooks](https://github.com/arielalmeida04/FrontApiBooks) — Cliente Frontend
+Aplicación web desacoplada que consume los endpoints de **ApiLibros**, integrando el flujo completo de autenticación con tokens y la gestión de recursos contra el backend.
+
+### [Portfolio Personal](https://portfile-arielalmeida.vercel.app)
+Sitio web personal desarrollado con **Astro** para centralizar mis proyectos, experiencia y vías de contacto.
 
 ## Stack tecnológico
 
@@ -72,6 +76,7 @@ Actualmente estoy desarrollando proyectos prácticos de backend para consolidar 
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -102,6 +107,6 @@ Actualmente estoy desarrollando proyectos prácticos de backend para consolidar 
 
 ## Contacto
 
-* **LinkedIn:** [linkedin.com/in/arielalmeida04](https://linkedin.com/in/arielalmeida04)
-* **Portfolio:** [portfile-ariel-almeida.vercel.app](https://portfile-ariel-almeida.vercel.app/)
+* **LinkedIn:** [linkedin.com/in/martin-almeida-946b18221](https://www.linkedin.com/in/martin-almeida-946b18221)
+* **Portfolio:** [portfile-arielalmeida.vercel.app](https://portfile-arielalmeida.vercel.app)
 * **Email:** [arielalmeida04@hotmail.com](mailto:arielalmeida04@hotmail.com)
